@@ -1,6 +1,5 @@
 # Thinkful Capstone: Periodic Tables
 
-> Live app is available here:  https://front-end-three-sand.vercel.app/dashboard
 
 About the project:
 This was my final project for Thinkful's full stack engineer program. It was designed to be a hypathetical website for a restaurant's staff to help assign tables for people that book reservations at the said resturante. If you want to test out the website, you can got to the live link above and create tables and reservations that can be stored in the database; and also searched to be referenced.
